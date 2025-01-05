@@ -17,7 +17,6 @@ Me chamo Mayra e estou por aqui todos os dias aprendendo algo novo.
 
   </div>
 
-![Snake animation](https://github.com/maylr31/maylr31/blob/output/snake.svg)
 
 
   
