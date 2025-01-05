@@ -16,9 +16,8 @@ Me chamo Mayra e estou por aqui todos os dias aprendendo algo novo.
   <a href="https://www.linkedin.com/in/mayralopesrib/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
-</div>
 
-![Snake animation] https://github.com/maylr31/maylr31/blob/main/.github/workflows/main.yml
+![Snake animation](https://github.com/maylr31/maylr31/blob/main/.github/workflows/main.yml)
 
   
 
