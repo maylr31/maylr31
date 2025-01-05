@@ -18,6 +18,8 @@ Me chamo Mayra e estou por aqui todos os dias aprendendo algo novo.
   </div>
 </div>
 
+![Snake animation] https://github.com/maylr31/maylr31/blob/main/.github/workflows/main.yml
+
   
 
   
