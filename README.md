@@ -1,12 +1,14 @@
-## Olá pessoal👋
+## Olá, eu sou a Mayra Ribeiro 👋<br><br>
+👩‍🎓 Estudante de Analise e desenvolvimento de sistemas.<br>
+💪🥰Estou decidida a me tornar uma Dev. Todo dia mais +1 degrau.
 
-Me chamo Mayra e estou por aqui todos os dias aprendendo algo novo.
 
 
 ## 🖥️ **Linguagens**: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erica-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
   </div>
 
 ##
